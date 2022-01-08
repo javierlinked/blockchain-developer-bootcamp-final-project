@@ -1,0 +1,19 @@
+{
+  "name": "ticketservice-dapp",
+  "version": "1.0.0",
+  "description": "Dapp Client TicketService",
+  "main": "index.html",
+  "author": "Javier Rojo @javierlinked",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.9",
+    "web3": "^1.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  }
+}
